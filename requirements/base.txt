@@ -1,0 +1,18 @@
+aiodns
+aiohttp
+aiomultiprocess
+aiosqlite
+beautifulsoup4
+censys
+certifi
+dnspython
+netaddr
+plotly
+pyppeteer
+PyYAML
+requests
+retrying
+shodan
+texttable
+lxml
+uvloop; platform_system != "Windows"
